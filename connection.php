@@ -4,7 +4,7 @@ function Connect()
 {
 	$servername = "127.0.0.1";
 	$dbuser = "root";
-	$dbpass = "ramkiran13";
+	$dbpass = " ";
 	
 
 
